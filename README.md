@@ -104,6 +104,13 @@ Checks if time returned is > 0.1 for time_it(temp_converter, 100, temp_given_in 
 ### test_timeit_withoutrepetitions
 Checks if timeit works without repetitions
 
+## To test positional and named arguments
+* test_timeit_assertion_speed
+* test_timeit_assertion_temp
+* test_timeit_assertion_square
+* test_timeit_assertion_polygon
+* test_timeit_noassertion_polygon_nonamed
+* test_timeit_assertion_polygon_nopositional
 
 
 
